@@ -10,8 +10,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-title: Welcome To Marcos's home page
-description:Feel free to book mark this and keep and eye on my project updates
 
 # Header 1
 ## Header 2
